@@ -1,4 +1,4 @@
-# Previsao de cancelamento de usuarios
+# Previsão de cancelamento de usuários
 Projeto de análise e modelagem preditiva para identificar clientes com maior probabilidade de cancelamento (churn), utilizando técnicas de análise de dados e Machine Learning.
 ## 1. Introdução
 A evasão de clientes é um dos principais desafios em negócios baseados em receita recorrente. Reduzir o churn impacta diretamente a retenção, o LTV (Lifetime Value) e a lucratividade.
