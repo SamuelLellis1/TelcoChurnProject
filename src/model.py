@@ -50,7 +50,6 @@ def train_model (df):
         subsample= 0.8,
         colsample_bytree= 0.8,
         random_state= 42,
-        use_label_encoder = False,
         eval_metric= "logloss"
     )
     xgb_params = {
